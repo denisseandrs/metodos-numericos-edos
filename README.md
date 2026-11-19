@@ -15,8 +15,8 @@ JDK 8 o superior (`java -version`, `javac -version`).
 
 ## Clonar
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_REPOSITORIO>
+git clone https://github.com/denisseandrs/metodos-numericos-edos.git
+cd metodos-numericos-edos
 ```
 
 ## Compilar
