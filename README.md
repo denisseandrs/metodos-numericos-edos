@@ -1,6 +1,8 @@
-# Unidad 6: Resolución numérica de EDOs (Euler y RK4)
+**Materia:** Métodos Numéricos — Unidad 4
+**Unidad 6**: Resolución numérica de EDOs 
+**Docente:** Víctor Hugo Vásquez Herrera
+**Alumna:** Denisse Itzel Andres Garrido
 
-SCC-1017 Métodos Numéricos – ITS Xalapa
 
 ## Contenido
 - `MetodoEuler.java`: Euler para y' = x − y, y(0) = 1. Exacta: y = x − 1 + 2e^(−x)
